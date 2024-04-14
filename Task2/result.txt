@@ -1,0 +1,12 @@
+Number of running processes:  10
+Number of successfully completed processes:  10
+Proccess with PID 6742 success locks: 66
+Proccess with PID 6741 success locks: 55
+Proccess with PID 6746 success locks: 58
+Proccess with PID 6744 success locks: 69
+Proccess with PID 6743 success locks: 56
+Proccess with PID 6747 success locks: 47
+Proccess with PID 6740 success locks: 63
+Proccess with PID 6738 success locks: 65
+Proccess with PID 6739 success locks: 45
+Proccess with PID 6745 success locks: 74
